@@ -12,3 +12,7 @@ A new Flutter project.
     - dependencies
         - location: ^5.0.0
 
+- AndroidManifest.xml 내용추가
+```xml
+<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
