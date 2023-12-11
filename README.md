@@ -11,10 +11,7 @@ A new Flutter project.
 ```
 
 - pubspec.yaml 내용추가
-    - dependencies
-        - location: ^5.0.0
-
-
 ```yaml
 dependencies:
-    location: ^5.0.0
+  location: ^5.0.0
+```
